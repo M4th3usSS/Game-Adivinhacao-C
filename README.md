@@ -71,7 +71,7 @@ ASCII art são figuras criadas somente com caracteres e podem ser imprimidas pel
 Na pasta doc, você encontrará um passo a passo de como instalar o compilador C/C++, assim como configurar o VSCode caso deseja alterar o código.
 
 ## Referência
-- [Alura]https://cursos.alura.com.br/course/introducao-a-programacao-com-c-parte-1 C: conhecendo a Linguagem das Linguagens
-- [Alura]https://www.alura.com.br/artigos/compilando-executando-programas-c-c-windows Compilando e executando programas em C/C++ no Windows
+- [Alura](https://cursos.alura.com.br/course/introducao-a-programacao-com-c-parte-1) C: conhecendo a Linguagem das Linguagens
+- [Alura](https://www.alura.com.br/artigos/compilando-executando-programas-c-c-windows) Compilando e executando programas em C/C++ no Windows
 
 
