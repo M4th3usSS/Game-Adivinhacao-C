@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "../include/AsciiArt.h"
 
 void ASCII_AST_01(){
@@ -8,13 +6,13 @@ void ASCII_AST_01(){
     printf("   ,'_.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._`.\n");
     printf("  ( (                                                         ) )\n");
     printf("   ) )                                                       ( (\n");
-    printf("  ( (        Bem vindo ao nosso jogo de adivinhacÃ£o           ) )\n");
+    printf("  ( (        Bem vindo ao nosso jogo de adivinhação           ) )\n");
     printf("   ) )                                                       ( (\n");
-    printf("  ( (     O computador sorteou um nÃºmero entre 1 e 100.       ) )\n");
-    printf("   ) )   Seu obejtivo Ã© descobrir esse nÃºmero com o menor    ( (\n");
-    printf("  ( (     nÃºmero de tentativas possÃ­veis, a cada nova         ) )\n");
-    printf("   ) )   tentativa vocÃª irÃ¡ perder pontos,entÃ£o , adote      ( (\n");
-    printf("  ( (     uma boa estratÃ©gia para vencer seus amigos :)       ) )\n");
+    printf("  ( (     O computador sorteou um número entre 1 e 100.       ) )\n");
+    printf("   ) )   Seu obejtivo é descobrir esse número com o menor    ( (\n");
+    printf("  ( (     número de tentativas possíveis, a cada nova         ) )\n");
+    printf("   ) )   tentativa você irá perder pontos, então, adote      ( (\n");
+    printf("  ( (     uma boa estratégia para vencer seus amigos :)       ) )\n");
     printf("   ) )                                                       ( (\n");
     printf("  ( (_.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._) )\n");
     printf("   `._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._.-._,'\n\n");
