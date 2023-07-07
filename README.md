@@ -3,7 +3,7 @@ A proposta deste breve projeto é dar início à minha imersão na grandiosa lin
 
 Agora vamos ao que interessa, segue os tópicos de minhas anotações:
 
-- Codificação do cmd
+- Codificação do PowerShell
 - Diretivas
 - Arquivos de cabeçalho 
 - Variáveis 
@@ -13,8 +13,8 @@ Agora vamos ao que interessa, segue os tópicos de minhas anotações:
 - ASCII art 
 - Como executar o código;
 
-## Codificação do cmd
-O primeiro desafio é resolver o conflito de codificação de arquivos do VS Code e do PowerShell, que aliás são as ferramentas que utilizei no desenvolvimento do jogo
+## Codificação do PowerShell
+O primeiro desafio é resolver o conflito de codificação de arquivos do VS Code e do PowerShell, que aliás são as ferramentas que utilizei no desenvolvimento do jogo.
 
 Os problemas de codificação ocorrem quando a codificação do VS Code ou do arquivo de script não corresponde à codificação esperada pelo PowerShell. Como o PowerShell não determina automaticamente a codificação de arquivos, os caracteres especiais resultavam em uma impressão inesperada ao executar.
 
@@ -33,7 +33,7 @@ Eu encontrei essa solução [aqui](https://pt.stackoverflow.com/questions/20550/
 Em caso de dúvidas, você pode pesquisar por caracteres especiais em C no terminal que está usando.
 
 ## Diretivas
-**include** - Como o próprio nome sugere, os arquivos de cabeçalho são usados para incluir arquivos e bibliotecas em um programa
+**include** - Como o próprio nome sugere, os arquivos de cabeçalho são usados para incluir arquivos e bibliotecas em um programa.
 ##  Arquivos de cabeçalho
 Arquivos de cabeçalho, também conhecidos como headers, permitem que os programadores separem certos elementos de um código-fonte de um programa em arquivos reutilizáveis. Esses arquivos normalmente contêm declarações de classes, sub-rotinas, variáveis e outros identificadores.
 
