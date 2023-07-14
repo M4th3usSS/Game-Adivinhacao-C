@@ -59,7 +59,7 @@ Já o casting explícito, também conhecido como "type casting", é quando o pro
 
 O casting pode ser útil em situações onde é necessário converter tipos de dados para realizar operações ou atribuições corretamente. No entanto, é importante ter cuidado ao fazer castings explícitos, pois eles podem resultar em perda de precisão ou comportamento indefinido se a conversão não for válida.
 
-Nesse jogo eu precisei de fazer um casting explícito em um variável int para,para com isso, não truncar o resultado de uma divisão para inteiro.
+Nesse jogo eu precisei de fazer um casting explícito em um variável int para float,para com isso, não truncar o resultado de uma divisão para inteiro.
 ```C
 float pontos_perdidos = ((float)chute - numerosecreto)/2;  
 ```
